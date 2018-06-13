@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "patapon's pond"
-theme = "hugo-classic"
+theme = "hugo-xmin"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
