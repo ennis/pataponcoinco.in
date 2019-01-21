@@ -1,5 +1,7 @@
 ---
-title: Home
+layout: page
+title: About
+permalink: /about/
 ---
 
 Hi, I am Alexandre Bléron. I can write code and do research, with a specialization in computer graphics.
@@ -50,5 +52,3 @@ I mostly favor the [Rust programming language](https://www.rust-lang.org/) to bu
 
 * [path-tracer](https://github.com/ennis/path-tracer): a small path tracer in C++, inspired by smallpt. 
 * [xxgui](https://github.com/ennis/xxgui): a work-in-progress immediate-mode GUI library for Rust.
-
-## Blog

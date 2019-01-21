@@ -28,6 +28,6 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 
 [params]
-    description = "The website of pataponCoinCoin."
+    description = "A blog about computer graphics and more."
     footer = "[Github](https://github.com/ennis)"
-    #custom_css = ["css/theme-override.css"]
+    custom_css = ["css/theme-override.css"]

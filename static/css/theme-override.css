@@ -1,1 +1,25 @@
 footer { font-size: 90%; font-family: monospace; }
+
+.pub-entry {
+
+}
+
+.pub-title {
+    font-size: 14pt;
+}
+
+.pub-authors {
+    color: gray;
+    font-style: italic;
+}
+
+.pub-where {
+    
+}
+
+.pub-pic {
+    float: right;
+    display : inline-block;
+    max-height: 100%;
+    width: auto;
+}
