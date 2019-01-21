@@ -25,7 +25,7 @@ and the rendering of brush strokes with image filtering techniques.
 <ul>
     <li class="pub-entry">
         <p>
-        <img class="pub-pic" width="100" height="100" src="/assets/octopus.png"/>
+        <img class="pub-pic" width="100" height="100" src="/octopus.png"/>
         <div class="pub-title"><a href="https://hal.inria.fr/hal-01826558/">Motion-coherent stylization with screen-space image filters</a></div>
         <div class="pub-authors">Alexandre Bléron, Romain Vergne, Thomas Hurtut, Joëlle Thollot</div> 
         <div class="pub-where">Expressive’18 - The Joint Symposium on Computational Aesthetics and Sketch Based Interfaces and Modeling and Non-Photorealistic Animation and Rendering, 2018</div>
@@ -34,7 +34,7 @@ and the rendering of brush strokes with image filtering techniques.
     </li>
     <li class="pub-entry">
         <p>
-        <img class="pub-pic" width="100" height="100" src="/assets/shading.png"/>
+        <img class="pub-pic" width="100" height="100" src="/shading.png"/>
         <div class="pub-title"><a href="https://hal.inria.fr/hal-01826558/">A workflow for designing stylized shading effects</a></div>
         <div class="pub-authors">Alexandre Bléron, Romain Vergne, Thomas Hurtut, Joëlle Thollot</div> 
         <div class="pub-where">Research Report, Inria Grenoble Rhône-Alpes, 2018</div>
@@ -47,7 +47,6 @@ and the rendering of brush strokes with image filtering techniques.
 
 Some old free-time programming projects (mostly unfinished) that I have been working on in the past, and more recent stuff,
 which can be found on my [github page](https://github.com/ennis).
-
 I mostly favor the [Rust programming language](https://www.rust-lang.org/) to build stuff these days. 
 
 * [path-tracer](https://github.com/ennis/path-tracer): a small path tracer in C++, inspired by smallpt. 
